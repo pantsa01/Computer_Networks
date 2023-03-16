@@ -1,5 +1,5 @@
 # Computer-Networks
-LAB Exercises on the course "Computer Networks" at 7th Term in ECE NTUA
+LAB Exercises on the course "Computer Networks" at 7th Term in ECE NTUA (2022-23)
 
 ## Directory (LABS)
 1. Wireshark
